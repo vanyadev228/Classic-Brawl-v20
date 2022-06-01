@@ -2,7 +2,7 @@
 
 Brawl Stars v20 server emulator written in Python.
 
-![ScreenShot](https://media.discordapp.net/attachments/711412740199022603/810686774220423199/unknown.png) 
+![ScreenShot](https://media.discordapp.net/attachments/932573964918747139/981500951972184064/Screenshot_2022-05-28-21-24-29-592_com.brawlstars.server.jpg) 
 
 ### Requirements:
 - Python 3.7 or higher
